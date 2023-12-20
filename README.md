@@ -1,2 +1,2 @@
 # admin-dashboard
-mock dashboard 
+mock dashboard. practicing css design using flexbox and grid. 
